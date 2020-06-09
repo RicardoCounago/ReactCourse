@@ -5,9 +5,9 @@ function Nav() {
         <nav>
             <h1>Hello</h1>
             <ul>
-                <li>Tging 1</li>
-                <li>Tging 2</li>
-                <li>Tging 3</li>
+                <li>Thing 1</li>
+                <li>Thing 2</li>
+                <li>Thing 3</li>
             </ul>
         </nav>
     )
