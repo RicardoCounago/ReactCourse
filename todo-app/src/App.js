@@ -1,13 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
-function App() {
-  return (
-    <div className="App">
+function App(){
+
+  return(
+    <div>
+
+      <input type="checkbox"/>
+      <p>Placeholder text</p>
       
+      <input type="checkbox"/>
+      <p>Placeholder text</p>
+      
+      <input type="checkbox"/>
+      <p>Placeholder text</p>
+
     </div>
-  );
+  )
+
 }
 
 export default App;
